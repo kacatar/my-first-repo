@@ -5,4 +5,5 @@ now i'm going to commit for the second time to add this readme.
 //Sunday, 1 april 2018 @ 17.00 
 
 
-//i tried to pull first and lets see if this message gone.
+//@17.11 i tried to edit this on github and i will try to pull this. and i edited it with mergetool
+
